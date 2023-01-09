@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "the_book/guessing_game",
+  "the_book/ownership"
+]
