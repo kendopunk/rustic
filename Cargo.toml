@@ -3,5 +3,6 @@
 members = [
   "the_book/guessing_game",
   "the_book/ownership",
-  "the_book/structs"
+  "the_book/structs",
+  "the_book/enums"
 ]
