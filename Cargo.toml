@@ -4,5 +4,7 @@ members = [
   "the_book/guessing_game",
   "the_book/ownership",
   "the_book/structs",
-  "the_book/enums"
+  "the_book/enums",
+  "linkedin/median",
+  "linkedin/sum_cli"
 ]
