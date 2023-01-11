@@ -5,6 +5,9 @@ members = [
   "the_book/ownership",
   "the_book/structs",
   "the_book/enums",
+  "linkedin/casei_sort",
   "linkedin/median",
-  "linkedin/sum_cli"
+  "linkedin/print_any_text",
+  "linkedin/sum_cli",
+  "linkedin/unique_items"
 ]
