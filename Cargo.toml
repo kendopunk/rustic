@@ -1,10 +1,12 @@
 [workspace]
 
 members = [
+  "the_book/enums",
+  "the_book/generics",
   "the_book/guessing_game",
   "the_book/ownership",
   "the_book/structs",
-  "the_book/enums",
+  "the_book/traits",
   "linkedin/casei_sort",
   "linkedin/median",
   "linkedin/print_any_text",
