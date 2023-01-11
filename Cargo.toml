@@ -9,6 +9,7 @@ members = [
   "the_book/traits",
   "linkedin/casei_sort",
   "linkedin/median",
+  "linkedin/morse_code",
   "linkedin/print_any_text",
   "linkedin/sum_cli",
   "linkedin/unique_items"
