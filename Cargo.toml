@@ -7,10 +7,13 @@ members = [
   "the_book/ownership",
   "the_book/structs",
   "the_book/traits",
+  "linkedin/card_hand",
   "linkedin/casei_sort",
   "linkedin/median",
   "linkedin/morse_code",
   "linkedin/print_any_text",
+  "linkedin/sandbox",
   "linkedin/sum_cli",
-  "linkedin/unique_items"
+  "linkedin/unique_items",
+  "sandbox/count_words"
 ]
